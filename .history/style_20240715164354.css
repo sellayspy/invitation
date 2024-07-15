@@ -197,6 +197,12 @@ body {
   font-weight: 300;
 }
 
+.story {
+  background-image: url(img/gambar-1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
 .story,
 .gallery,
 .rsvp,

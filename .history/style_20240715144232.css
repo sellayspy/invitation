@@ -84,15 +84,18 @@ body {
 }
 
 .pengantar {
-  color: white;
-  padding-top: 3rem;
-  padding-bottom: 4rem;
-  background-color: pink;
+  background-image: url(img/Desain\ tanpa\ judul.png);
+  background-size: cover;
+  min-height: 100vh;
+  margin-top: -6rem;
+  padding-top: 15rem;
+  padding-bottom: 5rem;
 }
 
-.pengantar p {
-  font-family: Arial;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+.pengantar .container {
+  background-color: pink;
+  width: 100%;
+  height: 200px;
 }
 
 .home {
@@ -214,10 +217,6 @@ body {
   letter-spacing: 1px;
   margin-bottom: 1rem;
   display: block;
-}
-
-.story .story-title {
-  font-size: 15px;
 }
 
 .story p,

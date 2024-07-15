@@ -88,11 +88,11 @@ body {
   padding-top: 3rem;
   padding-bottom: 4rem;
   background-color: pink;
+  filter: blur(1px);
 }
 
 .pengantar p {
   font-family: Arial;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 .home {
@@ -214,10 +214,6 @@ body {
   letter-spacing: 1px;
   margin-bottom: 1rem;
   display: block;
-}
-
-.story .story-title {
-  font-size: 15px;
 }
 
 .story p,

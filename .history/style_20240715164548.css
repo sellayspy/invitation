@@ -197,6 +197,11 @@ body {
   font-weight: 300;
 }
 
+.story {
+  background-image: url(img/Sampul.jpg);
+  background-size: cover;
+}
+
 .story,
 .gallery,
 .rsvp,
